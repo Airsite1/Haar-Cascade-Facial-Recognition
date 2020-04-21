@@ -1,2 +1,3 @@
-# Face_Recognition- saves face to local disk
+# Face_Recognition- saves cropped face to local disk
+ 
  
